@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.menuIdioma {
+    background-color: #222222;
+    color: white;
+}
+
+.menuPrincipal {
+    background-color: #F0A83E;
+}
+
+.logoCatDog {
+    color: white;
+}
+
+
+ a {
+    text-decoration: none;
+    color: white;
+ }
+
+ .banner {
+    background-image: url(/img/portada);
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+    text-align: center;
+ }
+
+ .suscribeFooter {
+    background-color: #F0A83E;
+ }
+
+ .contactFooter {
+    background-color: #3C2313;
+    color: white;
+ }
+
+ .footerCatDog {
+    color: #F0A83E;
+ }
+
+ .copy {
+    background-color: #222222;
+    color: white;
+ }
