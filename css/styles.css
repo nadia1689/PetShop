@@ -1,49 +1,61 @@
 body {
-    font-family: 'Roboto', sans-serif;
-   
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.fa-paw {
+  color: white;
+}
+
+ul {
+  list-style: none;
 }
 
 .menuIdioma {
-    background-color: #222222;
-    color: white;
+  background-color: #222222;
+  color: white;
 }
 
 .menuPrincipal {
-    background-color: #F0A83E;
+  background-color: #F0A83E;
 }
 
 .logoCatDog {
-    color: white;
+  color: white;
 }
 
 
- a {
-    text-decoration: none;
-    color: white;
- }
+a {
+  text-decoration: none;
+  color: white;
+}
 
- .banner {
-    background-image: url(/img/portada);
-    background-position: center;
-    background-size: cover;
-    height: 650px;
-    text-align: center;
- }
+.banner {
+  background-image: url(/img/portada.png);
+  background-position: center;
+  background-size: cover;
+  height: 650px;
+  text-align: center;
+}
 
- .suscribeFooter {
-    background-color: #F0A83E;
- }
+.menuDestacado a{
+  color: #222222;
+}
 
- .contactFooter {
-    background-color: #3C2313;
-    color: white;
- }
+.suscribeFooter {
+  background-color: #F0A83E;
+}
 
- .footerCatDog {
-    color: #F0A83E;
- }
+.contactFooter {
+  background-color: #3C2313;
+  color: white;
+}
 
- .copy {
-    background-color: #222222;
-    color: white;
- }
+.footerCatDog {
+  color: #F0A83E;
+}
+
+.copy {
+  background-color: #222222;
+  color: white;
+}
